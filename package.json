@@ -1,0 +1,12 @@
+{
+  "name": "pokemon-info",
+  "version": "1.0.0",
+  "description": "an informational tool to find EV yields, learnsets, BST, and more. designed for quick access for nuzlocke or challenge usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cameron greene",
+  "license": "ISC"
+}
